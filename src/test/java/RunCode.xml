@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Automation" verbose="1">
+    <test name="Automation">
+        <packages>
+            <package name="testcases" />
+        </packages>
+        <!--        <classes>-->
+        <!--                        <class name="Testcases.Login"/>-->
+        <!--                        <class name="Testcases.Dashboard">-->
+        <!--            <class name="Testcases.Customer">-->
+        <!--                <methods>-->
+        <!--                    <include name="testAddNewCustomer"/>-->
+        <!--                </methods>-->
+        <!--            </class>-->
+        <!--        </classes>-->
+    </test>
+</suite>
+
